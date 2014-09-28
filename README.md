@@ -8,6 +8,7 @@ rottenTomatoes
     Customize the navigation bar. (optional) -- Done
     User can pull to refresh the movie list. -- Done
 3. Walthrough of project
+   ![alt tag] https://github.com/div88/rottenTomatoes/blob/master/rottenTomatoes1.gif
 
 
 
