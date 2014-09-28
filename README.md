@@ -7,9 +7,11 @@ rottenTomatoes
     User can view movie details by tapping on a cell --- Done, but pull up feature not implemented
     Customize the navigation bar. (optional) -- Done
     User can pull to refresh the movie list. -- Done
-3. Walthrough of project
+3. Walkthrough of project
 
-   ![Image Alt] https://github.com/div88/rottenTomatoes/blob/master/rottenTomatoes1.gif
+   ![Image Alt]https://github.com/div88/rottenTomatoes/blob/master/rottenTomatoes1.gif
+   
+   <img src="https://github.com/div88/rottenTomatoes/blob/master/rottenTomatoes1.gif" />
 
 
 ===============
