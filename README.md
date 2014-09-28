@@ -9,7 +9,7 @@ rottenTomatoes
     User can pull to refresh the movie list. -- Done
 3. Walkthrough of project
 
-   <img src="https://github.com/div88/rottenTomatoes/blob/master/rottenTomatoes1.gif" />
+   <img src="https://github.com/div88/rottenTomatoes/blob/master/rottenTomatoes1.gif" alt="rottenTomatoesAssignmentWalkthrough"/>
    
    
 
